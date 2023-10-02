@@ -1,1 +1,2 @@
 # Crack Detection
+Cracks have a significant impact on bridges, and our team has innovated a versatile unmanned aerial vehicle (UAV) for inspections, called the Triphibian UAV, capable of operating on land, in the sea, and in the air. To enhance the accuracy of visual bridge inspections further, our approach is built upon the UNet network, incorporating transfer learning from popular architectures like VGG, ResNet, and EfficientNet.
